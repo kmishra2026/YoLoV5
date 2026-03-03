@@ -1,5 +1,7 @@
-flask
-gunicorn
-ultralytics
+streamlit
+torch
+torchvision
+pandas
+requests
+Pillow
 opencv-python-headless
-numpy
